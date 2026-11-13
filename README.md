@@ -189,7 +189,6 @@ Multiplayer and campaign functionality has been tested across several scenarios,
 
 ## ⚠️ KNOWN LIMITATIONS
 
-- Players currently pass through one another.
 - High network latency can cause occasional visual corrections.
 - Host migration is not supported. If the host leaves, players return to the co-op menu.
 - Some remote execution effects are represented differently for other players.
